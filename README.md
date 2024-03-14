@@ -6,6 +6,7 @@ This project is an Arduino-based system designed to monitor and manage temperatu
 
 **Features:**
 
+- A super fancy intro animation ;)
 - Reads temperature and humidity using a Dallas Temperature sensor.
 - Controls five fans, a heater and water cooling based on pre-defined temperature thresholds.
 - Activates an alarm if the temperature deviates significantly from the set point.
